@@ -1,0 +1,1643 @@
+{
+  "AP_88c42e68ba2f": {
+    "ssid": "SSID_29589366dc77",
+    "avg_rssi": -90.66666666666667,
+    "samples": 45,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "001018",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": true
+  },
+  "AP_f2d0fbe79824": {
+    "ssid": "SSID_d4b11a4bdd95",
+    "avg_rssi": -89.46153846153847,
+    "samples": 26,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "00904C",
+      "00904C",
+      "00E04C"
+    ],
+    "beacon_interval": 100,
+    "channel": 3,
+    "privacy": false,
+    "ess": false
+  },
+  "AP_29d9f6b1f92f": {
+    "ssid": "SSID_4aa19595a7e6",
+    "avg_rssi": -90.23076923076923,
+    "samples": 13,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "0050F2",
+      "00904C",
+      "00904C",
+      "00E04C"
+    ],
+    "beacon_interval": 100,
+    "channel": 3,
+    "privacy": false,
+    "ess": false
+  },
+  "AP_b51dab4d60bd": {
+    "ssid": "SSID_2d3cc8da5113",
+    "avg_rssi": -94.42857142857143,
+    "samples": 7,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 4,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_3a515b2f539a": {
+    "ssid": "SSID_b0877b3984d6",
+    "avg_rssi": -85.72881355932203,
+    "samples": 59,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "001018",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": false,
+    "ess": false
+  },
+  "AP_797a4361ebb1": {
+    "ssid": "SSID_8007275fe39f",
+    "avg_rssi": -73.67272727272727,
+    "samples": 55,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "0050F2",
+      "00E04C",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 7,
+    "privacy": false,
+    "ess": false
+  },
+  "AP_16d43a02d76e": {
+    "ssid": "SSID_3a0cac043629",
+    "avg_rssi": -64.48275862068965,
+    "samples": 58,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00E04C"
+    ],
+    "beacon_interval": 100,
+    "channel": 10,
+    "privacy": false,
+    "ess": false
+  },
+  "AP_5daf12d5a7bb": {
+    "ssid": "SSID_97db5d001c64",
+    "avg_rssi": -95.76923076923077,
+    "samples": 13,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "001018",
+      "0050F2",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_8e7e741daffc": {
+    "ssid": "SSID_5d690e3ed272",
+    "avg_rssi": -96.61111111111111,
+    "samples": 18,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "001018",
+      "0050F2"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": true
+  },
+  "AP_c6102fe074bf": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -75.51428571428572,
+    "samples": 35,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_9025bba6630f": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -62.50847457627118,
+    "samples": 59,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_23610705d84a": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -62.891891891891895,
+    "samples": 37,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_b3f6451f3119": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -91.68181818181819,
+    "samples": 22,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_f8e60a816b78": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -39.493975903614455,
+    "samples": 83,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_0bc29c814f1d": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -70.56140350877193,
+    "samples": 57,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_b44693aaf091": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -69.70370370370371,
+    "samples": 27,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "506F9A",
+      "0050F2",
+      "8CFDF0",
+      "8CFDF0",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_c64b85ba02a6": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -91.0,
+    "samples": 1,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_7d20b982c55d": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -39.5625,
+    "samples": 64,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_9d15a68e9f98": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -76.16666666666667,
+    "samples": 36,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_06b08dba8b05": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -76.91304347826087,
+    "samples": 23,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_224f0302d6af": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -89.85714285714286,
+    "samples": 28,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_0ce13b9a0424": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -80.6,
+    "samples": 10,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_0e762e7f9f91": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -91.33333333333333,
+    "samples": 3,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_dd284ad9719a": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -85.5,
+    "samples": 2,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 1,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_1b00f4afa602": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -77.91304347826087,
+    "samples": 46,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_06e9cbdc3277": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -63.0,
+    "samples": 24,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_e642d42793a6": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -63.733333333333334,
+    "samples": 15,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_bad8044c2125": {
+    "ssid": "SSID_14df9b7be59c",
+    "avg_rssi": -66.33333333333333,
+    "samples": 12,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_fdd0aaddefa7": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -66.8695652173913,
+    "samples": 46,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_fd9dae49d7c0": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -67.20454545454545,
+    "samples": 44,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_b1275e96eaf5": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -60.46031746031746,
+    "samples": 63,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_4664e40f71ec": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -60.87234042553192,
+    "samples": 47,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_18188d128d48": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -67.13725490196079,
+    "samples": 51,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_4f6a55d0acca": {
+    "ssid": "SSID_29e5ff4d9dbd",
+    "avg_rssi": -68.83783783783784,
+    "samples": 37,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_89f0c0b07bd4": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -66.86111111111111,
+    "samples": 36,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_16749d2e99a6": {
+    "ssid": "SSID_29e5ff4d9dbd",
+    "avg_rssi": -69.8974358974359,
+    "samples": 39,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_a69072c12c6a": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -69.95652173913044,
+    "samples": 23,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_b897ed9534e5": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -83.83333333333333,
+    "samples": 6,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_a534647baae9": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -74.5,
+    "samples": 16,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_eab3be5601af": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -70.2,
+    "samples": 10,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_ae4df3fe25ee": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -57.726027397260275,
+    "samples": 73,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_ce33e1e73294": {
+    "ssid": "SSID_14df9b7be59c",
+    "avg_rssi": -64.26666666666667,
+    "samples": 30,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_421e7162731a": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -64.51351351351352,
+    "samples": 37,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_d585cb37458c": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -64.11363636363636,
+    "samples": 44,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "00037F",
+      "8CFDF0",
+      "8CFDF0",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_747a1ba4f533": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -83.6,
+    "samples": 15,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_ccbbe27c6ce2": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -84.36363636363636,
+    "samples": 11,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_5482b9dc9f53": {
+    "ssid": "SSID_29e5ff4d9dbd",
+    "avg_rssi": -94.27272727272727,
+    "samples": 11,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_28829ca1ec02": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -76.20588235294117,
+    "samples": 34,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_e327255ad442": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -75.72972972972973,
+    "samples": 37,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_4e65df134e7b": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -95.28571428571429,
+    "samples": 7,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_9f31e8286148": {
+    "ssid": "SSID_29e5ff4d9dbd",
+    "avg_rssi": -93.5,
+    "samples": 4,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 6,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_e5ab8e23e562": {
+    "ssid": "SSID_14df9b7be59c",
+    "avg_rssi": -89.4,
+    "samples": 5,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_d0b4204cf169": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -85.0,
+    "samples": 3,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_a9366d5a93eb": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -78.45,
+    "samples": 20,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "506F9A",
+      "0050F2",
+      "8CFDF0",
+      "8CFDF0",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_91c9c0a235c0": {
+    "ssid": "SSID_43f791bc39b9",
+    "avg_rssi": -88.33333333333333,
+    "samples": 12,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_078899a72ee0": {
+    "ssid": "SSID_98c7226eeaa9",
+    "avg_rssi": -87.5,
+    "samples": 2,
+    "supported_rates": [
+      6.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "OPEN",
+    "vendor_ies": [
+      "0050F2",
+      "506F9A",
+      "000B86"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  },
+  "AP_088e7c1b9fa9": {
+    "ssid": "SSID_bdd14a473861",
+    "avg_rssi": -89.5,
+    "samples": 10,
+    "supported_rates": [
+      1.0,
+      2.0,
+      5.5,
+      6.0,
+      9.0,
+      11.0,
+      12.0,
+      18.0,
+      24.0,
+      36.0,
+      48.0,
+      54.0
+    ],
+    "rsn": "WPA2-CCMP",
+    "vendor_ies": [
+      "0050F2",
+      "000C43",
+      "00156D"
+    ],
+    "beacon_interval": 100,
+    "channel": 11,
+    "privacy": true,
+    "ess": false
+  }
+}
